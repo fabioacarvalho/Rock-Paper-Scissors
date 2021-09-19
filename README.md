@@ -8,7 +8,7 @@
 
 # Start:
 
-<h1>You need install the venv and pyqt5:</h1>
+<h2>You need install the venv and pyqt5:</h2>
 <br>
 <p>python -m venv .venv </p>
 <br>
