@@ -6,7 +6,7 @@
 
 <p>Game developed in python useing the library Qt Design.</p>
 
-#Start:
+# Start:
 
 <h1>You need install the venv and pyqt5:</h1>
 <br>
